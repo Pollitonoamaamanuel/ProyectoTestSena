@@ -1,0 +1,28 @@
+E:\Activdades VS\Test\Logica\bin\Debug\Logica.dll
+E:\Activdades VS\Test\Logica\bin\Debug\Logica.pdb
+E:\Activdades VS\Test\Logica\bin\Debug\Datos.dll
+E:\Activdades VS\Test\Logica\bin\Debug\Datos.pdb
+E:\Activdades VS\Test\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\Activdades VS\Test\Logica\obj\Debug\Logica.dll
+E:\Activdades VS\Test\Logica\obj\Debug\Logica.pdb
+G:\Activdades VS\Test\Logica\bin\Debug\Logica.dll
+G:\Activdades VS\Test\Logica\bin\Debug\Logica.pdb
+G:\Activdades VS\Test\Logica\bin\Debug\Datos.dll
+G:\Activdades VS\Test\Logica\bin\Debug\Datos.pdb
+G:\Activdades VS\Test\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+G:\Activdades VS\Test\Logica\obj\Debug\Logica.dll
+G:\Activdades VS\Test\Logica\obj\Debug\Logica.pdb
+C:\Users\DOCENTE\Desktop\test\Logica\bin\Debug\Logica.dll
+C:\Users\DOCENTE\Desktop\test\Logica\bin\Debug\Logica.pdb
+C:\Users\DOCENTE\Desktop\test\Logica\bin\Debug\Datos.dll
+C:\Users\DOCENTE\Desktop\test\Logica\bin\Debug\Datos.pdb
+C:\Users\DOCENTE\Desktop\test\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\DOCENTE\Desktop\test\Logica\obj\Debug\Logica.dll
+C:\Users\DOCENTE\Desktop\test\Logica\obj\Debug\Logica.pdb
+E:\Tecnico\testCrud\Logica\bin\Debug\Logica.dll
+E:\Tecnico\testCrud\Logica\bin\Debug\Logica.pdb
+E:\Tecnico\testCrud\Logica\bin\Debug\Datos.dll
+E:\Tecnico\testCrud\Logica\bin\Debug\Datos.pdb
+E:\Tecnico\testCrud\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\Tecnico\testCrud\Logica\obj\Debug\Logica.dll
+E:\Tecnico\testCrud\Logica\obj\Debug\Logica.pdb

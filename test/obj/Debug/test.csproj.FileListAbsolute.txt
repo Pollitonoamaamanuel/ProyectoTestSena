@@ -1,0 +1,61 @@
+C:\Users\ALUMNO\Desktop\Test\Test\bin\Debug\Test.exe.config
+E:\Activdades VS\Test\Test\bin\Debug\Test.exe.config
+E:\Activdades VS\Test\Test\bin\Debug\Test.exe
+E:\Activdades VS\Test\Test\bin\Debug\Test.pdb
+E:\Activdades VS\Test\Test\bin\Debug\Datos.dll
+E:\Activdades VS\Test\Test\bin\Debug\Logica.dll
+E:\Activdades VS\Test\Test\bin\Debug\Datos.pdb
+E:\Activdades VS\Test\Test\bin\Debug\Logica.pdb
+E:\Activdades VS\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Activdades VS\Test\Test\obj\Debug\Test.Login.resources
+E:\Activdades VS\Test\Test\obj\Debug\Test.Menu.resources
+E:\Activdades VS\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Activdades VS\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Activdades VS\Test\Test\obj\Debug\Test.exe
+E:\Activdades VS\Test\Test\obj\Debug\Test.pdb
+G:\Activdades VS\Test\Test\bin\Debug\Test.exe.config
+G:\Activdades VS\Test\Test\obj\Debug\Test.exe
+G:\Activdades VS\Test\Test\obj\Debug\Test.pdb
+G:\Activdades VS\Test\Test\bin\Debug\Test.exe
+G:\Activdades VS\Test\Test\bin\Debug\Test.pdb
+G:\Activdades VS\Test\Test\bin\Debug\Datos.dll
+G:\Activdades VS\Test\Test\bin\Debug\Logica.dll
+G:\Activdades VS\Test\Test\bin\Debug\Datos.pdb
+G:\Activdades VS\Test\Test\bin\Debug\Logica.pdb
+G:\Activdades VS\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\Activdades VS\Test\Test\obj\Debug\Test.Login.resources
+G:\Activdades VS\Test\Test\obj\Debug\Test.Menu.resources
+G:\Activdades VS\Test\Test\obj\Debug\Test.Properties.Resources.resources
+G:\Activdades VS\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Activdades VS\Test\Test\obj\Debug\Test.frmUsers.resources
+C:\Users\DOCENTE\Desktop\test\Test\bin\Debug\Test.exe.config
+C:\Users\DOCENTE\Desktop\test\Test\obj\Debug\Test.exe
+C:\Users\DOCENTE\Desktop\test\Test\obj\Debug\Test.pdb
+C:\Users\DOCENTE\Desktop\test\Test\bin\Debug\Test.exe
+C:\Users\DOCENTE\Desktop\test\Test\bin\Debug\Test.pdb
+C:\Users\DOCENTE\Desktop\test\Test\bin\Debug\Datos.dll
+C:\Users\DOCENTE\Desktop\test\Test\bin\Debug\Logica.dll
+C:\Users\DOCENTE\Desktop\test\Test\bin\Debug\Datos.pdb
+C:\Users\DOCENTE\Desktop\test\Test\bin\Debug\Logica.pdb
+C:\Users\DOCENTE\Desktop\test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\DOCENTE\Desktop\test\Test\obj\Debug\Test.frmUsers.resources
+C:\Users\DOCENTE\Desktop\test\Test\obj\Debug\Test.Login.resources
+C:\Users\DOCENTE\Desktop\test\Test\obj\Debug\Test.Menu.resources
+C:\Users\DOCENTE\Desktop\test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\DOCENTE\Desktop\test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Tecnico\testCrud\Test\bin\Debug\Test.exe.config
+E:\Tecnico\testCrud\Test\obj\Debug\Test.exe
+E:\Tecnico\testCrud\Test\obj\Debug\Test.pdb
+E:\Tecnico\testCrud\Test\bin\Debug\Test.exe
+E:\Tecnico\testCrud\Test\bin\Debug\Test.pdb
+E:\Tecnico\testCrud\Test\bin\Debug\Datos.dll
+E:\Tecnico\testCrud\Test\bin\Debug\Logica.dll
+E:\Tecnico\testCrud\Test\bin\Debug\Datos.pdb
+E:\Tecnico\testCrud\Test\bin\Debug\Logica.pdb
+E:\Tecnico\testCrud\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Tecnico\testCrud\Test\obj\Debug\Test.frmUsers.resources
+E:\Tecnico\testCrud\Test\obj\Debug\Test.Login.resources
+E:\Tecnico\testCrud\Test\obj\Debug\Test.Menu.resources
+E:\Tecnico\testCrud\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Tecnico\testCrud\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Tecnico\testCrud\Test\obj\Debug\Test.frmEmployees.resources
